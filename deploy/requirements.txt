@@ -1,0 +1,5 @@
+tensorflow-cpu
+numpy~=1.19.2
+pillow
+gradio
+wget
