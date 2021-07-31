@@ -1,0 +1,1 @@
+These are some of the various classification models tried with our pre-trained encoder. But the proposed(best) model is present in `../covid_classification` folder.
