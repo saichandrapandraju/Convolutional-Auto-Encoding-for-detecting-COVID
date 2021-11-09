@@ -18,4 +18,4 @@ We implemented our entire pipeline with interactive Jupyter notebooks and to rep
 For complete details of approach, kindly refer our paper.
 
 
-Note: This paper is accepted on Oct-13-2021 and will be published soon.[Acceptance Letter_RIA 13011.pdf](https://github.com/saichandrapandraju/Convolutional-Auto-Encoding-for-detecting-COVID/files/7501354/Acceptance.Letter_RIA.13011.pdf)
+Note: This paper is [accepted](https://github.com/saichandrapandraju/Convolutional-Auto-Encoding-for-detecting-COVID/blob/main/Acceptance_Letter_RIA%2013011.pdf) on 13th Oct'21 and will be published soon.
