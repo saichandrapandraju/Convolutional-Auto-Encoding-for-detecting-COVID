@@ -1,6 +1,8 @@
 
 This repo hosts the data and code for the paper "Unsupervised Convolutional Filter Learning For COVID-19 Classification".
 
+Note: This paper is [accepted](https://github.com/saichandrapandraju/Convolutional-Auto-Encoding-for-detecting-COVID/blob/main/Acceptance_Letter_RIA%2013011.pdf) on 13th Oct'21 and will be published soon.
+
 In this project, we pre-trained a Convolutional Autoencoder with publicly available chest X-ray images and used this pre-trained model to classify COVID-19 chest X-ray images using Transfer Learning. 
 
 - Dataset used for pre-training can be downloaded from [here](https://storage.googleapis.com/cae_covid_classification/pretrain.zip).
@@ -16,6 +18,3 @@ We implemented our entire pipeline with interactive Jupyter notebooks and to rep
 
 
 For complete details of approach, kindly refer our paper.
-
-
-Note: This paper is [accepted](https://github.com/saichandrapandraju/Convolutional-Auto-Encoding-for-detecting-COVID/blob/main/Acceptance_Letter_RIA%2013011.pdf) on 13th Oct'21 and will be published soon.
