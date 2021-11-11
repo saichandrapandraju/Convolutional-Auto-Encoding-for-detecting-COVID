@@ -20,4 +20,4 @@ For complete details of approach, kindly refer our [paper](https://doi.org/10.18
 # How to Cite
 If you extend or use this work, please cite the [paper](https://doi.org/10.18280/ria.350509) :
 
-Mahalingam, S.G., Pandraju, S. (2021). Unsupervised convolutional filter learning for COVID-19 classification. Revue d'Intelligence Artificielle, Vol. 35, No. 5, pp. 425-429. https://doi.org/10.18280/ria.350509
+>Mahalingam, S.G., Pandraju, S. (2021). Unsupervised convolutional filter learning for COVID-19 classification. Revue d'Intelligence Artificielle, Vol. 35, No. 5, pp. 425-429. https://doi.org/10.18280/ria.350509
