@@ -1,7 +1,5 @@
 
-This repo hosts the data and code for the paper "Unsupervised Convolutional Filter Learning For COVID-19 Classification".
-
-Note: This paper is [accepted](https://github.com/saichandrapandraju/Convolutional-Auto-Encoding-for-detecting-COVID/blob/main/Acceptance_Letter_RIA%2013011.pdf) on 13th Oct'21 and will be published soon.
+This repo hosts the data and code for the paper "[Unsupervised Convolutional Filter Learning For COVID-19 Classification](https://doi.org/10.18280/ria.350509)".
 
 In this project, we pre-trained a Convolutional Autoencoder with publicly available chest X-ray images and used this pre-trained model to classify COVID-19 chest X-ray images using Transfer Learning. 
 
@@ -17,4 +15,4 @@ We implemented our entire pipeline with interactive Jupyter notebooks and to rep
 3. We used **deploy/*** files to deploy this classification model to [Heroku](https://www.heroku.com/). A quick inference of our model can be made with this demo app - https://cae-covid-classification.herokuapp.com/ (It'll take a minute to initially load the app because the Dyno has to start).
 
 
-For complete details of approach, kindly refer our paper.
+For complete details of approach, kindly refer our [paper](https://doi.org/10.18280/ria.350509).
